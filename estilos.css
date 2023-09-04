@@ -1,0 +1,31 @@
+body{
+    color: rgb(177, 177, 177);
+    margin: 0;
+    font-family:Tahoma, sans-serif;
+}
+
+header{
+    background-color: rgb(126, 94, 255);
+    margin: 0;
+    padding: 20;
+    color: white;
+    text-align-last: center;
+
+}
+
+nav{
+    background-image: url('./imagens/linguagens-front-end.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    width:100% ;
+    height: 350px;
+
+}
+
+article{
+    width: 30%;
+    display:;
+}
+h3{
+
+}
